@@ -6,6 +6,10 @@
 
 **Contact:** contact@wluper.com
 
+**CITATION**: At the bottom of page
+
+**LINK**: [LIDA Paper Link](https://www.aclweb.org/anthology/D19-3021/)
+
 # ** IMPORTANT! ** The Code now lives in:
 [Wluper - Matilda](https://github.com/wluper/matilda)
 
@@ -14,7 +18,7 @@ In particular this branch:
 - https://github.com/Wluper/matilda/tree/lida-final-version
 
 # More details about the Paper:
-**Paper:** Link will Follow for the 2019 EMNLP Paper (together with citation)
+**Paper:** [LIDA Paper Link](https://www.aclweb.org/anthology/D19-3021/) **Citation at bottom of README**
 
 LIDA is an open source dialogue annotation system which supports the full
 pipeline of dialogue annotation from dialogue / turn segmentation from raw
